@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+
+# builds
+dist/
+web-build/
+
+# OS files
+.DS_Store
